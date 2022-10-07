@@ -15,4 +15,4 @@ SearchReport.py | Python | Script to Seach Users and group them by Call ID
 
 Usage: python3 scriptfilename
 
-Note: DownloadReport.py can be executed independently if the report is already made available through other means. 
+Note: SearchReport.py can be executed independently if the report is already made available through other means. 

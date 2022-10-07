@@ -5,7 +5,7 @@ The objective of these scripts is to give the ability for the users to search fo
 
 There are three scripts here to achieve this goal. 
 
-First, CreateReport.py will make an API call with the right duration based on the template ID. The API call will generate the report. The report is not instant. Typically it takes 25-30 minutes based on the size of the report. DownloadReport.py will download the report from Webex Org into a CSV file locally. SearchReport.py then can be executed to search for the users and group them by Call ID.
+First, CreateReport.py will make an API call with the right duration based on the template ID. The API call will generate the report. The report is not instantly available. Typically it takes 25-30 minutes based on the size of the report. DownloadReport.py will download the report from Webex Org into a CSV file locally. SearchReport.py then can be executed to search for the users and group them by Call ID.
 
 Filename | Language | Description
 --- | --- | ---

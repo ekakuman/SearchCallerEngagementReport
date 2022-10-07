@@ -6,6 +6,9 @@ The script is designed to be executed by users with "full admin" role in the org
 Output file called Errors.csv is generated at the end in the same directory as the input CSV file 
 (Errors.csv will be empty if the script runs successfully without errors)
 Tested with Python version 3.6
+
+If the CreateReport.py and DownloadReport.py were used to generate the report, then report.csv file is available in the local folder where the scripts are run from.
+
 """
 
 __author__ = "Matt Klawiter"

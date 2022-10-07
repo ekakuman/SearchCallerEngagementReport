@@ -12,3 +12,5 @@ Filename | Language | Description
 CreateReport.py | Python | Script to Create Report leveraring API calls to the Webex Org
 DownloadReport.py | Python | Script to Download Report leveraring API calls to the Webex Org
 SearchReport.py | Python | Script to Seach Users and group them by Call ID
+
+Usage: python3 <python script>
